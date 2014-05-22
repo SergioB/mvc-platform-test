@@ -25,7 +25,7 @@ __Possible Future Platforms__:
 Set up the sites and run them
 
 ```
-haxe requestresponsetester.hxml
+haxe testsites.hxml
 cd out/neko_nocache/
 nekotools server -rewrite
 ```
